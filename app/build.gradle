@@ -268,7 +268,7 @@ dependencies {
     releaseImplementation "com.github.chuckerteam.chucker:library-no-op:$chucker"
 
     debugImplementation "com.github.chuckerteam.chucker:library:$chucker"
-    debugImplementation 'com.github.amitshekhariitbhu.Android-Debug-Database:debug-db:1.0.6'
+    debugImplementation 'com.github.amitshekhariitbhu.Android-Debug-Database:debug-db:1.0.7'
     debugImplementation 'com.github.haroldadmin:WhatTheStack:1.0.0-alpha04'
 
     testImplementation "junit:junit:4.13.2"
